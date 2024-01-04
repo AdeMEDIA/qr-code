@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;800&display=swap'); /* importing the font from Google font*/
+
+/* Universal selector to set margin and padding to Zero */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  min-height: 100vh;
+  display: flex; /* Display flex to align the content to center*/
+  align-items: center;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 360px;
+  margin: 0 auto; /* margin on top and bottom set to 0 and left and right to auto to center the container div*/
+}
+
+.card {
+  background-color: hsl(0, 0%, 100%);
+  padding: 18px;
+  border-radius: 18px;
+  text-align: center;
+  margin: 0 1.5em;  /* Margin used to make the card responsive and adding 1.5em to left and right margin */
+}
+
+.card img {
+  width: 100%; 
+  border-radius: 13px; /* To make round edges */
+}
+
+.text {
+  padding: 22px 12px;
+}
+/* To style h2 element*/
+.text h2 {
+  padding-bottom: 15px;
+  color: hsl(218, 44%, 22%);
+}
+
+.text p {
+  color: hsl(220, 15%, 55%);
+}
+
+/* styling attribution class*/
+ .attribution { 
+   font-size: 11px; 
+   text-align: center; 
+   color: hsl(218, 44%, 22%);;
+   
+ }
+ .attribution a { 
+      color: hsl(228, 45%, 44%); 
+      text-decoration: none;
+ }
