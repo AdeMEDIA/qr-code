@@ -71,9 +71,9 @@ body {
 
 ## Author
 
-- Website - [Add your name here](https://www.github/ademedia.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ademedia)
-- Twitter - [@yourusername](https://www.x.com/adedevgee)
+- Website - [Website 🔜](https://www.github/ademedia.io)
+- Frontend Mentor - [@Ademedia](https://www.frontendmentor.io/profile/ademedia)
+- Twitter - [@AdeDevGEE](https://www.x.com/adedevgee)
 
 
 ## Acknowledgments
